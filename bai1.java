@@ -1,9 +1,9 @@
-package com.example.kiemthunangcao.buoi2;
+package com.example.kiemthunangcao.test;
 
 public class bai1 {
-    public  int tích2songuyen(int a ,int b){
-        return a*b;
-    }
+public int add(int a , int b){
+    return a - b;
+}
 
 
 }
